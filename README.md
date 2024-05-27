@@ -1,5 +1,5 @@
 😊 **A BookMark** using HTML , CSS & JavaScript 🩷
 
-<img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+<img align="left" alt="png" width="1120" src="https://github.com/arzoopatra/Fun-Code/blob/main/HTML.png">
 
 
