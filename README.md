@@ -4,4 +4,4 @@
  
 <img align="center" width="200" src="https://github.com/arzoopatra/Fun-Code/blob/main/HTML.png">  <img align="center" width="200" src="https://github.com/arzoopatra/Fun-Code/blob/main/CSS.png">  <img align="center" width="200" src="https://github.com/arzoopatra/Fun-Code/blob/main/JavaScript.png">
 
-<img align="center" width="905" src="https://github.com/arzoopatra/Fun-Code/blob/main/Result.png">
+<img align="center" width="805" src="https://github.com/arzoopatra/Fun-Code/blob/main/Result.png">
